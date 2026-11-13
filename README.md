@@ -22,6 +22,24 @@ This transition from autonomous behavior to human interaction reflects the relat
 
 Algorithms generate possibilities. Human creativity gives them meaning and purpose.
 
+## Interaction & Visual Behavior
+
+Generative Scribble is a continuous, self-evolving drawing system that responds naturally to human interaction.
+
+**Autonomous by default.** The line moves independently, creating unpredictable curves, loops, arcs and organic compositions. Each movement is generated dynamically, making every experience different.
+
+**Guided by the cursor.** As visitors move their cursor across the hero, the line follows with a fluid, spring-like motion. No clicking is required. On touch devices, visitors can guide the line with their finger.
+
+**Freedom when interaction stops.** When the cursor becomes still or the visitor stops interacting, the line seamlessly resumes its autonomous behavior from its current position.
+
+**A distinctive visual signature.** A vibrant pink tip gradually transitions into a subtle gray line, creating a delicate gradient along the moving stroke.
+
+**An ephemeral canvas.** Older sections of the line progressively fade and disappear as new paths emerge, allowing the composition to continuously evolve without permanently filling the screen.
+
+The result is an interaction that feels alive: part algorithm, part human expression.
+
+**Shaped by randomness. Guided by interaction.**
+
 ## Design Philosophy
 
 Generative Scribble challenges the idea that every aspect of design must be perfectly planned or controlled.
